@@ -1,7 +1,9 @@
 # analysis-of-toxic-comments
 
 Authors: Patricia Paredes Martín and Iosif Mondoc
+
 Subject: Network intelligence
+
 Universidad Carlos III de Madrid
 
 Trying different ML models in order to find which one better classify if a comment is toxic or not.
